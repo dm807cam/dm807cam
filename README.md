@@ -1,7 +1,6 @@
-### Hi my name is Dennis 👋
-
 ![](header.png)
 
+### Hi my name is Dennis 👋
 I am a third year PhD student at the University of Cambridge 🇬🇧 and the British Antarctic Survey where my research is about understanding the processes and pathways of biomineralization in marine invertebrates and their ecological implications. 
 
 **My reserach interests are broadly about:**
