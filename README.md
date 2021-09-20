@@ -9,9 +9,9 @@ I am a third year PhD student at the University of Cambridge 🇬🇧 and the Br
 - 💎 How biominerals can be used to study the oceans of the past.
 
 ### Packages
-Currently I maintain two R packages. 
-<img src="https://github.com/dm807cam/bodybuildR/blob/main/man/figures/logo.png" align="left"  height="200" /> 
-<img src="https://github.com/dm807cam/EMPiR/blob/main/man/figures/logo.png" align="left"  height="200" /> 
 
-**bodybuildR** is an R package to help fitness enthusiasts to monitor their progress.
-**EMPiR** is a pipe-friendly framework to import, calibrate and evaluate Electron MicroProbe data in R.
+<img src="https://github.com/dm807cam/bodybuildR/blob/main/man/figures/logo.png" align="right"  height="160" /> 
+<img src="https://github.com/dm807cam/EMPiR/blob/main/man/figures/logo.png" align="right"  height="160" /> 
+Currently I maintain two R packages.</br>
+**bodybuildR** is an R package to help fitness enthusiasts to monitor their progress.</br>
+**EMPiR** is a pipe-friendly framework to import, calibrate and evaluate Electron MicroProbe data in R.</br>
