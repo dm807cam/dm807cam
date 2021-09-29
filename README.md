@@ -11,5 +11,4 @@ I am a third year PhD student at the University of Cambridge 🇬🇧 and the Br
 ### What I am currently working on...
 
 <img src="https://github.com/dm807cam/EMPiR/blob/main/man/figures/logo.png" align="right"  height="160" /> 
-Currently I work on the R package **EMPiR** which is a pipe-friendly framework to import, calibrate and evaluate Electron MicroProbe data in R. This project is still work in progress and I hope to release a first stable version at the end of November, 2021. 
-
+Currently, I work on the R package <b>EMPiR</b> which is a pipe-friendly framework to import, calibrate and evaluate Electron MicroProbe data in R. This project is still work in progress and I hope to release a first stable version at the end of November, 2021. 
