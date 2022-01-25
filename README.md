@@ -11,7 +11,7 @@ I am a PhD student at the University of Cambridge 🇬🇧 and the British Antar
 Please head over to my website if you would like to know more about my research.
 
 ## Project Repositories
-Here is a non comprehsensive list of repositories and code that I used in my reaserach.
+Here is a non comprehensive list of repositories and code that I used in my reaserach.
 
 - 🐚 [nucella2021world](https://github.com/dm807cam/nucella2021world) - Repository to my research article: **Carbonate system mediated shape shift in intertidal predatory gastropod**
 
