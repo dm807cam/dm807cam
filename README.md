@@ -6,7 +6,7 @@ I am a PhD student at the University of Cambridge 🇬🇧 and the British Antar
 **My reserach interests are broadly about:**
 - 🐚 How marine organisms produce shells.
 - 🌊 How climate change will influence marine calcifiers.
-- 💎 How biominerals can be used to study the oceans of the past.
+- 💎 How biominerals can be used to study the oceans of the past. </br>
 Please head over to my website if you would like to know more about me and my research.
 
 ## Project Repositories
