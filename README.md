@@ -8,7 +8,7 @@ I am a PhD student at the University of Cambridge 🇬🇧 and the British Antar
 - 🌊 How climate change will influence marine calcifiers.
 - 💎 How biominerals can be used to study the oceans of the past.
 
-Please head over to my website if you would like to know more about me and my research.
+Please head over to my website if you would like to know more about my research.
 
 ## Project Repositories
 Here is a non comprehsensive list of repositories and code that I used in my reaserach.
