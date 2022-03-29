@@ -17,3 +17,9 @@ Here is a non comprehensive list of repositories and code that I used in my reas
 
 - 🐚 [nucella2021belgium](https://github.com/dm807cam/nucella2021belgium) - Repository to my research article: **Thriving in a changing world: A 130 years shell record of an intertidal predator from the Southern North Sea**
 
+
+## R packages I built and/or maintain
+
+- 🔬 [EMPiR](https://github.com/dm807cam/EMPiR) - This package provides a pipe-friendly framework to work with EMP data in the R language. 
+
+- 🏋🏼‍♂️ [BodybuildR](https://github.com/dm807cam/BodybuildR) - Fun is fun ;) BodybuildR is a package for fitness enthusiasts to calculate body composition and training intensity.  
