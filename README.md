@@ -20,6 +20,6 @@ Here is a non comprehensive list of repositories and code that I used in my reas
 
 ## Packages I built and/or maintain
 
-![EMPiR](https://github.com/dm807cam/EMPiR/raw/dev/man/figures/logo.png=250x250)
+<img src='https://github.com/dm807cam/EMPiR/man/figures/logo.png' align='right'  height='200' />
 
 - 🏋🏼‍♂️ [BodybuildR](https://github.com/dm807cam/BodybuildR) - Fun is fun ;) BodybuildR is a package for fitness enthusiasts to calculate body composition and training intensity in R.  
