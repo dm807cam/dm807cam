@@ -14,4 +14,4 @@ Some people shoot protists with laser. Others study sea snails. I did both for a
 
 - 🌊 **[Kgen](https://cran.r-project.org/package=kgen)** — a small piece of software with a long backstory: cross-verified equilibrium constants for (palaeo)seawater carbonate chemistry, implemented in R, Python *and* Matlab so that nobody has to argue about whose pH is right.
 - 💧 **[reHydrate](https://rehydrate.ink)** — an offline companion for the reMarkable tablet.
-- 🟠 **[amber](github.com/dm807cam/amber)** — an R package that turns a Shiny app into an actual desktop application. One init_project() call and you get a hardened Electron shell with bundled R, native installers for macOS / Windows / Linux.
+- 🟠 **[amber](https://github.com/dm807cam/amber)** — an R package that turns a Shiny app into an actual desktop application. One init_project() call and you get a hardened Electron shell with bundled R, native installers for macOS / Windows / Linux.
